@@ -1,2 +1,2 @@
 # mojRepo
-mojRepo
+OS i RuO
